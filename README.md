@@ -4,14 +4,26 @@ Ce repository contient l'implémentation de différents Design Patterns en Java 
 
 ## Patterns Implémentés
 
-### ��� [Strategy Pattern](./strategy-pattern)
+### [Strategy Pattern](./strategy-pattern)
 Permet de sélectionner dynamiquement différentes stratégies à l'exécution.
 
-### ��� [Decorator Pattern](./decorator-pattern)
-*En cours de développement*
+### [Decorator Pattern](./decorator-pattern)
+Ajoute dynamiquement des responsabilités à un objet de manière flexible.
 
-### ��� [Observer Pattern](./observer-pattern)
-*En cours de développement*
+### [Observer Pattern](./observer-pattern)
+Établit une relation de dépendance un-à-plusieurs entre objets avec notification automatique.
+
+### [Adapter Pattern](./adapter-pattern)
+Convertit l'interface d'une classe en une autre interface attendue par les clients.
+
+### [Composite Pattern](./composite-pattern)
+Compose des objets en structures arborescentes pour représenter des hiérarchies partie-tout.
+
+### [Proxy Pattern](./proxy-pattern)
+Fournit un substitut ou représentant d'un autre objet pour contrôler l'accès à celui-ci.
+
+### [Template Method Pattern](./template-method-pattern)
+Définit le squelette d'un algorithme en déléguant certaines étapes aux sous-classes.
 
 ## Structure du Projet
 
@@ -24,3 +36,6 @@ Chaque pattern est dans son propre dossier avec :
 - Java
 - Maven
 - IntelliJ IDEA
+
+## Auteur
+@hanane
