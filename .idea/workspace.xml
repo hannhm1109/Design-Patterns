@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92cee692-b5c6-4803-b243-9f797d541ad1" name="Changes" comment="" />
+    <list default="true" id="92cee692-b5c6-4803-b243-9f797d541ad1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/decorator-pattern/src/main/java/net/saadbr/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/decorator-pattern/src/main/java/net/hanane/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observer-pattern/src/main/java/net/saadbr/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/observer-pattern/src/main/java/net/hanane/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1763894820167</updated>
       <workItem from="1763894822442" duration="4155000" />
-      <workItem from="1765717874186" duration="669000" />
+      <workItem from="1765717874186" duration="1261000" />
     </task>
     <servers />
   </component>
