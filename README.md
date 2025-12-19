@@ -25,6 +25,9 @@ Fournit un substitut ou représentant d'un autre objet pour contrôler l'accès 
 ### [Template Method Pattern](./template-method-pattern)
 Définit le squelette d'un algorithme en déléguant certaines étapes aux sous-classes.
 
+### [Singleton Pattern](./singleton-pattern)
+Garantit qu'une classe n'a qu'une seule instance avec support multi-threading. Inclut aussi le Builder Pattern pour la construction d'objets complexes.
+
 ### [TP Design Patterns](./tp-design-patterns)
 Exercices pratiques combinant plusieurs patterns : Composite, Template Method, Factory, Decorator, Observer, Strategy et Adapter dans des cas d'usage concrets.
 
@@ -39,6 +42,7 @@ Chaque pattern est dans son propre dossier avec :
 - Java
 - Maven
 - IntelliJ IDEA
+- Jackson (pour Singleton Pattern)
 
 ## Auteur
-@hanane
+@nahim
