@@ -45,4 +45,4 @@ Chaque pattern est dans son propre dossier avec :
 - Jackson (pour Singleton Pattern)
 
 ## Auteur
-@nahim
+@nahim hanane
